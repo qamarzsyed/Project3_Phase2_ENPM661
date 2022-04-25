@@ -14,6 +14,3 @@ variables for start position, goal position, wheel rpm, and clearance are locate
 
 3. Video output will be stored in the current directory
 
-
-Notes:
-Just used the given cost formula and an 8 action set to make the script, although the paths don't look very 'curved' in the video, they do follow the differential drive equations, it is just due to the small robot size, if the robot was larger these would appear much more curved
